@@ -34,7 +34,7 @@ remote desktop +
 remote Camera + 
 Micorphone + 
 Get Passwords + 
-Fun (Screamer, Piano, hide show, Open CD, power) + 
+Fun (Screamer, Piano, hide show, Open CD, power, Crazy Windows, Curse Voice, screamre website, close browsers) + 
 Keylogger + 
 Chat (red) + 
 Stop taskmgr (2 way) + 
