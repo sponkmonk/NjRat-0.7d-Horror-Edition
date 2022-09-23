@@ -4,6 +4,8 @@
 
 ![Screenshot-](https://raw.githubusercontent.com/De-eloper/NjRat-0.7d-Horror-Edition/main/Screenshot-.png?raw=true)
 
+![Screenshot+](https://raw.githubusercontent.com/De-eloper/NjRat-0.7d-Horror-Edition/main/Screenshot+.png?raw=true)
+
 Current features:
 
 VPN:
