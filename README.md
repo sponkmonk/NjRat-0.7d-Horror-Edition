@@ -10,6 +10,7 @@ VPN:
 connect through vpn rasdial
 
 BUILDER:
+Use Admin Rights +
 Copy to direcroy + 
 Keylogger + 
 Icon Changer +
