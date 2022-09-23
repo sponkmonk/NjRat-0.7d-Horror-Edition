@@ -2,7 +2,7 @@
 
 ![Screenshot](https://raw.githubusercontent.com/De-eloper/NjRat-0.7d-Horror-Edition/main/Screenshot.png?raw=true)
 
-![Screenshot2](https://raw.githubusercontent.com/De-eloper/NjRat-0.7d-Horror-Edition/main/Screenshot3.png?raw=true)
+![Screenshot-](https://raw.githubusercontent.com/De-eloper/NjRat-0.7d-Horror-Edition/main/Screenshot-.png?raw=true)
 
 Current features:
 
@@ -36,7 +36,7 @@ remote desktop +
 remote Camera + 
 Micorphone + 
 Get Passwords + 
-Fun (Screamer, Piano, hide show, Open CD, power, Crazy Windows, send Voice, open website, close browsers, send msgebox) + 
+Fun (Screamer, Piano, hide show, Open CD, power, Crazy Windows, send Voice, open website, close browsers, send msgebox, overwrite MBR and optional reboot after MBR overwrite) + 
 Keylogger + 
 Chat (red) + 
 Stop taskmgr (2 way) + 
