@@ -43,3 +43,6 @@ Stop taskmgr (2 way) +
 Server options + 
 Power options + 
 Open victim folder
+
+
+If you want feature add, open issue i can see if i add this feature you need or not
