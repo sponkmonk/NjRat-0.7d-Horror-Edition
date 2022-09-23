@@ -1,6 +1,6 @@
 # NjRat-0.7d-Horror-Edition
 
-![Screenshot](https://raw.githubusercontent.com/De-eloper/NjRat-0.7d-Horror-Edition/main/Screenshot.png?raw=true)
+![Screenshot](https://github.com/De-eloper/NjRat-0.7d-Horror-Edition/raw/main/Screenshot_.PNG?raw=true)
 
 ![Screenshot-](https://raw.githubusercontent.com/De-eloper/NjRat-0.7d-Horror-Edition/main/Screenshot-.png?raw=true)
 
@@ -8,6 +8,8 @@ Current features:
 
 VPN:
 connect through vpn rasdial
+
+SETTINGS: 5 New Notify Sounds (Laugh, Bass hit, Door bell, Door opening, Water drip)
 
 BUILDER:
 Use Admin Rights +
