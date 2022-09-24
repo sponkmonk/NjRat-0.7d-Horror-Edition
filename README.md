@@ -2,6 +2,8 @@
 
 .:: NEWEST FEATURES: Attrib (Hide file), Fix admin check, UAC (elevate to admin) and many bug fixes
 
+.:: NOTE: Do not use UAC if you are already admin privileges or the payload will not execute
+
 ![Screenshot](https://github.com/De-eloper/NjRat-0.7d-Horror-Edition/raw/main/Screenshot_.PNG?raw=true)
 
 ![Screenshot-](https://github.com/De-eloper/NjRat-0.7d-Horror-Edition/raw/main/NewScreenshot.png?raw=true)
