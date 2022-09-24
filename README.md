@@ -1,6 +1,6 @@
 # NjRat-0.7d-Horror-Edition
 
-.:: NEWEST FEATURES: GDI+ (Flip screen, invert screen, white-out screen (flashbang) + Check Admin privileges)
+.:: NEWEST FEATURES: Attrib (Hide file), Fix admin check, UAC (elevate to admin) and many bug fixes
 
 ![Screenshot](https://github.com/De-eloper/NjRat-0.7d-Horror-Edition/raw/main/Screenshot_.PNG?raw=true)
 
@@ -16,6 +16,7 @@ connect through vpn rasdial
 SETTINGS: Enable/Disable Notify Sounds (Laugh, Bass hit, Door bell, Door opening, Water drip, Church bell,  Ghost, Inform, Notify, Sword, Voice(new victim connected))
 
 BUILDER:
+Hide file (Attrib) +
 Use Admin Rights +
 Copy to direcroy + 
 Keylogger + 
@@ -33,6 +34,7 @@ Packer, .NET Reactor or RPX 4.0 or MPress
 
 VICTIM:
 Check if Admin +
+UAC Prompt +
 Managers file + 
 process Mnager + 
 Connections + 
