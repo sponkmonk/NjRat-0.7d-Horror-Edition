@@ -1,5 +1,7 @@
 # NjRat-0.7d-Horror-Edition
 
+.:: NEWEST FEATURES: GDI+ (Flip screen, invert screen, white-out screen (flashbang) + Check Admin privileges)
+
 ![Screenshot](https://github.com/De-eloper/NjRat-0.7d-Horror-Edition/raw/main/Screenshot_.PNG?raw=true)
 
 ![Screenshot-](https://raw.githubusercontent.com/De-eloper/NjRat-0.7d-Horror-Edition/main/Screenshot-.png?raw=true)
@@ -30,6 +32,7 @@ Kill Defneder Attempt +
 Packer, .NET Reactor or RPX 4.0 or MPress
 
 VICTIM:
+Check if Admin +
 Managers file + 
 process Mnager + 
 Connections + 
@@ -41,7 +44,7 @@ remote desktop +
 remote Camera + 
 Micorphone + 
 Get Passwords + 
-Fun (Screamer, Piano, hide show, Open CD, power, Crazy Windows, send Voice, open website, close browsers, send msgebox, overwrite MBR and optional reboot after MBR overwrite) + 
+Fun (Screamer, Piano, hide show, Open CD, power, Crazy Windows, send Voice, open website, close browsers, send msgebox, overwrite MBR and optional reboot after MBR overwrite, GDI+ functions: invert screen, flip screen, flashbang screen) + 
 Keylogger + 
 Chat (red) + 
 Stop taskmgr (2 way) + 
