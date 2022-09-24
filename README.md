@@ -52,5 +52,8 @@ Server options +
 Power options + 
 Open victim folder
 
+SMALL IMPROVEMENTS:
+upload file (through disk) new naming style
+no tmp, now executed with GUID style random
 
 If you want feature add, open issue i can see if i add this feature you need or not
