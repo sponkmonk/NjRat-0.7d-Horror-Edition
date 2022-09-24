@@ -6,7 +6,7 @@
 
 .:: CURRENT BUGS: Fun function does not stay with its 1 victim. If you hilight a different victim while on fun or select multiple then it will go to them. 
 
-.:: CURRENT UDPATE IN PROGRESS: Attempting to make fun function work properly. (each window effects 1 victim only)
+.:: CURRENT UDPATE IN PROGRESS: Attempting to make fun function work properly. (It should do: multiple windows allowed and each works on 1 victim only)
 
 ![Screenshot](https://github.com/De-eloper/NjRat-0.7d-Horror-Edition/raw/main/Screenshot_.PNG?raw=true)
 
