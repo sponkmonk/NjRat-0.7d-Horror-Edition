@@ -4,7 +4,7 @@
 
 ![Screenshot](https://github.com/De-eloper/NjRat-0.7d-Horror-Edition/raw/main/Screenshot_.PNG?raw=true)
 
-![Screenshot-](https://raw.githubusercontent.com/De-eloper/NjRat-0.7d-Horror-Edition/main/Screenshot-.png?raw=true)
+![Screenshot-](https://github.com/De-eloper/NjRat-0.7d-Horror-Edition/raw/main/NewScreenshot.png?raw=true)
 
 ![Screenshott](https://github.com/De-eloper/NjRat-0.7d-Horror-Edition/raw/main/Screenshott.png?raw=true)
 
