@@ -12,6 +12,8 @@
 
 ![Screenshot](https://github.com/De-eloper/NjRat-0.7d-Horror-Edition/raw/main/Screenshot_.PNG?raw=true)
 
+![Screenshotasdf](https://github.com/De-eloper/NjRat-0.7d-Horror-Edition/raw/main/Screenshot!.PNG?raw=true)
+
 ![Screenshot-](https://github.com/De-eloper/NjRat-0.7d-Horror-Edition/raw/main/NewScreenshot.png?raw=true)
 
 ![Screenshott](https://github.com/De-eloper/NjRat-0.7d-Horror-Edition/raw/main/Screenshott.png?raw=true)
