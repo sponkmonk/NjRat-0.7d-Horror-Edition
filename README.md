@@ -1,20 +1,14 @@
 # NjRat-0.7d-Horror-Edition
 
-.:: NEWEST FEATURES: Fix Fun function, Screamer fixed, now sends to picked victim fun.
+.:: NEWEST FEATURES: Bugfixes, New MBR. new fun fucntions(blackout, crazy text, stretch, move mouse)
 
 .:: NOTE: Do not use UAC if you are already admin privileges or the payload will not execute, use Check Admin first!!
-
-.:: CURRENT BUGS: None bugs noticed
-
-.:: UPDATE LOGS: Fix fun functions, and screamer fixed.
-
-.:: CURRENT UDPATE IN PROGRESS: None update planned, open issue if you have bug or like a new feature,  i see i can add for you!
 
 ![Screenshot](https://github.com/De-eloper/NjRat-0.7d-Horror-Edition/raw/main/Screenshot_.PNG?raw=true)
 
 ![Screenshotasdf](https://github.com/De-eloper/NjRat-0.7d-Horror-Edition/raw/main/Screenshot!.PNG?raw=true)
 
-![Screenshot-](https://github.com/De-eloper/NjRat-0.7d-Horror-Edition/raw/main/NewScreenshot.png?raw=true)
+![Screenshot-](https://github.com/De-eloper/NjRat-0.7d-Horror-Edition/raw/main/Screenshot--.png?raw=true)
 
 ![Screenshott](https://github.com/De-eloper/NjRat-0.7d-Horror-Edition/raw/main/Screenshott.png?raw=true)
 
@@ -57,7 +51,7 @@ remote desktop +
 remote Camera + 
 Micorphone + 
 Get Passwords + 
-Fun (Screamer, Piano, hide show, Open CD, power, Crazy Windows, send Voice, open website, close browsers, send msgebox, overwrite MBR and optional reboot after MBR overwrite, GDI+ functions: invert screen, flip screen, flashbang screen) + 
+Fun (Screamer, Piano, hide show, Open CD, power, Crazy Windows, send Voice, open website, close browsers, send msgebox, overwrite MBR and optional reboot after MBR overwrite, GDI+ functions: invert screen, flip screen, flashbang screen, black out screen, move mouse, stretch, crazy text) + 
 Keylogger + 
 Chat (red) + 
 Stop taskmgr (2 way) + 
