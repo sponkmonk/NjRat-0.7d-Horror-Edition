@@ -4,9 +4,11 @@
 
 .:: NOTE: Do not use UAC if you are already admin privileges or the payload will not execute
 
-.:: CURRENT BUGS: Fun function does not stay with its 1 victim. If you hilight a different victim while on fun or select multiple then it will go to them. 
+.:: CURRENT BUGS: screamer will still send to the current hilighted victim ( does not stay with picked victim) needs to send to current victim.
 
-.:: CURRENT UDPATE IN PROGRESS: Attempting to make fun function work properly. (It should do: multiple windows allowed and each works on 1 victim only)
+.:: UPDATE LOGS: Fix fun functions, you can now open multiple forms and use the functions, but the screamer will still send to the current hilighted victim
+
+.:: CURRENT UDPATE IN PROGRESS: Attempting to make screamer function work properly, make the screamer send to picked victim instead of hilighted victims.
 
 ![Screenshot](https://github.com/De-eloper/NjRat-0.7d-Horror-Edition/raw/main/Screenshot_.PNG?raw=true)
 
