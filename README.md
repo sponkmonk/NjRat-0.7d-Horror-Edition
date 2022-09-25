@@ -1,14 +1,14 @@
 # NjRat-0.7d-Horror-Edition
 
-.:: NEWEST FEATURES: Fix Fun function, screamer still bugged, might be fix in a new update
+.:: NEWEST FEATURES: Fix Fun function, Screamer fixed, now sends to picked victim fun.
 
-.:: NOTE: Do not use UAC if you are already admin privileges or the payload will not execute
+.:: NOTE: Do not use UAC if you are already admin privileges or the payload will not execute, use Check Admin first!!
 
-.:: CURRENT BUGS: screamer will still send to the current hilighted victim ( does not stay with picked victim) needs to send to current victim.
+.:: CURRENT BUGS: None bugs noticed
 
-.:: UPDATE LOGS: Fix fun functions, you can now open multiple forms and use the functions, but the screamer will still send to the current hilighted victim
+.:: UPDATE LOGS: Fix fun functions, and screamer fixed.
 
-.:: CURRENT UDPATE IN PROGRESS: Attempting to make screamer function work properly, make the screamer send to picked victim instead of hilighted victims.
+.:: CURRENT UDPATE IN PROGRESS: None update planned, open issue if you have bug or like a new feature,  i see i can add for you!
 
 ![Screenshot](https://github.com/De-eloper/NjRat-0.7d-Horror-Edition/raw/main/Screenshot_.PNG?raw=true)
 
