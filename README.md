@@ -1,6 +1,6 @@
 # NjRat-0.7d-Horror-Edition
 
-.:: NEWEST FEATURES: ScheduleTasks, bug fixes, hide all shell interactions.
+.:: NEWEST FEATURES: Fix Fun function, screamer still bugged, might be fix in a new update
 
 .:: NOTE: Do not use UAC if you are already admin privileges or the payload will not execute
 
