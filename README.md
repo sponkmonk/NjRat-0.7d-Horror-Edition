@@ -1,6 +1,6 @@
 # NjRat-0.7d-Horror-Edition
 
-.:: NEWEST FEATURES: Bugfixes, New MBR. new fun fucntions(blackout, crazy text, stretch, move mouse)
+.:: NEWEST FEATURES: Final release finished, stub improves: fix move mouse (now makes mouse go crazy for a few seconds), fix crazy text (may need to be pressed a few times for text to show up on screen)
 
 .:: NOTE: Do not use UAC if you are already admin privileges or the payload will not execute, use Check Admin first!!
 
