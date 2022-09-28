@@ -1,6 +1,6 @@
 # NjRat-0.7d-Horror-Edition
 
-.:: NEWEST FEATURES: Final release done, added 2 gdi+ functions(rainbows(changes hue randomly on victims screen), zoom out), clean   up every unused functions in the stub that take size.
+.:: NEWEST FEATURES: Final release done, added 3 gdi+ functions(rainbows(changes hue randomly on victims screen), zoom out. mirror the screen), clean   up every unused functions in the stub that take size.
 
 .:: NOTE: Do not use UAC if you are already admin privileges or the payload will not execute, use Check Admin first!!
 
