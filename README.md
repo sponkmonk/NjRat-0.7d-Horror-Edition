@@ -1,6 +1,6 @@
 # NjRat-0.7d-Horror-Edition
 
-.:: NEWEST FEATURES: Final release finished, stub improves: fix move mouse (now makes mouse go crazy for a few seconds), fix crazy text (may need to be pressed a few times for text to show up on screen)
+.:: NEWEST FEATURES: Final release done, added 2 gdi+ functions(rainbows(changes hue randomly on victims screen), zoom out), clean   up every unused functions in the stub that take size.
 
 .:: NOTE: Do not use UAC if you are already admin privileges or the payload will not execute, use Check Admin first!!
 
@@ -8,7 +8,7 @@
 
 ![Screenshotasdf](https://github.com/De-eloper/NjRat-0.7d-Horror-Edition/raw/main/Screenshot!.PNG?raw=true)
 
-![Screenshot-](https://github.com/De-eloper/NjRat-0.7d-Horror-Edition/raw/main/Screenshot--.png?raw=true)
+![Screenshotf](https://github.com/De-eloper/NjRat-0.7d-Horror-Edition/raw/main/Screenshotf.png?raw=true)
 
 ![Screenshott](https://github.com/De-eloper/NjRat-0.7d-Horror-Edition/raw/main/Screenshott.png?raw=true)
 
