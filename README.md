@@ -1,6 +1,6 @@
 # NjRat-0.7d-Horror-Edition
 
-.:: NEWEST FEATURES: Final release done, added 3 gdi+ functions(rainbows(changes hue randomly on victims screen), zoom out. mirror the screen), clean   up every unused functions in the stub that take size.
+.:: NEWEST FEATURES: Final release done, added connect with pastebin. use pastebin raw with dns like (127.0.0.1:1234 or host:port) pastebin can be edited at any time, an alternative to ddns services
 
 .:: NOTE: Do not use UAC if you are already admin privileges or the payload will not execute, use Check Admin first!!
 
