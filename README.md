@@ -20,6 +20,7 @@ connect through vpn rasdial
 SETTINGS: Enable/Disable Notify Sounds (Laugh, Bass hit, Door bell, Door opening, Water drip, Church bell,  Ghost, Inform, Notify, Sword, Voice(new victim connected))
 
 BUILDER:
+Use Pastebin DNS +
 Schedule Tasks (1Min) +
 Hide file (Attrib) +
 Use Admin Rights +
@@ -51,7 +52,7 @@ remote desktop +
 remote Camera + 
 Micorphone + 
 Get Passwords + 
-Fun (Screamer, Piano, hide show, Open CD, power, Crazy Windows, send Voice, open website, close browsers, send msgebox, overwrite MBR and optional reboot after MBR overwrite, GDI+ functions: invert screen, flip screen, flashbang screen, black out screen, move mouse, stretch, crazy text) + 
+Fun (Screamer, Piano, hide show, Open CD, power, Crazy Windows, send Voice, open website, close browsers, send msgebox, overwrite MBR and optional reboot after MBR overwrite, GDI+ functions: invert screen, flip screen, flashbang screen, black out screen, move mouse,zoomout, rainbow, crazy text) + 
 Keylogger + 
 Chat (red) + 
 Stop taskmgr (2 way) + 
