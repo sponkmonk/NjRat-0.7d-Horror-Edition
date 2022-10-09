@@ -1,6 +1,6 @@
 # NjRat-0.7d-Horror-Edition
 
-.:: NEWEST FEATURES: Final release done, added connect with pastebin. use pastebin raw with dns like (127.0.0.1:1234 or host:port) pastebin can be edited at any time, an alternative to ddns services
+.:: NEWEST FEATURES: maybe final release.fixed positioning for fun and few bug fixes
 
 .:: NOTE: Do not use UAC if you are already admin privileges or the payload will not execute, use Check Admin first!!
 
