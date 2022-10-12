@@ -1,5 +1,7 @@
 # NjRat-0.7d-Horror-Edition
 
+## Fun Feature Showcase: https://streamja.com/gwVO0
+
 .:: NEWEST FEATURES: maybe final release.fixed positioning for fun and few bug fixes
 
 .:: NOTE: Do not use UAC if you are already admin privileges or the payload will not execute, use Check Admin first!!
