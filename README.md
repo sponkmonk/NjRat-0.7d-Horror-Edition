@@ -2,7 +2,7 @@
 
 ## Fun Feature Showcase: https://streamja.com/gwVO0
 
-.:: NEWEST FEATURES: maybe final release. added screen locker (lock and unlock, invicible to taskmgr and alt + f4)
+.:: NEWEST FEATURES: added screen locker (lock and unlock, invicible to taskmgr and alt + f4), grab clipbord (plugin based, might not work proper in slow connection), kill browsers (in anti's), screamer have loud sound effect(caful in testing, turn volume down)
 
 .:: NOTE: Do not use UAC if you are already admin privileges or the payload will not execute, use Check Admin first!!
 
