@@ -2,7 +2,7 @@
 
 ## Fun Feature Showcase: https://streamja.com/gwVO0
 
-.:: NEWEST FEATURES: maybe final release.fixed positioning for fun and few bug fixes
+.:: NEWEST FEATURES: maybe final release. added screen locker (lock and unlock, invicible to taskmgr and alt + f4)
 
 .:: NOTE: Do not use UAC if you are already admin privileges or the payload will not execute, use Check Admin first!!
 
