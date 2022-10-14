@@ -1,9 +1,11 @@
 # NjRat-0.7d-Horror-Edition
 
 ## .::FULL VIDEO SHOWCASE FEATURES: 
-https://streamja.com/5qk50
+### https://streamable.com/ey1ozb
 ## .::VIDEO MIRRORS
-https://sendvid.com/ukyztx3f
+### https://sendvid.com/ukyztx3f
+### https://streamja.com/5qk50
+##
 
 .:: NEWEST FEATURES: added screen locker (lock and unlock, invicible to taskmgr and alt + f4), grab clipbord (plugin based, might not work proper in slow connection), kill browsers (in anti's), screamer have loud sound effect(caful in testing, turn volume down)
 
