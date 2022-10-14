@@ -1,13 +1,13 @@
 # NjRat-0.7d-Horror-Edition
 
-## .::FULL VIDEO SHOWCASE FEATURES: 
+## .::(outdated) FULL VIDEO SHOWCASE FEATURES: 
 ### https://streamable.com/ey1ozb
-## .::VIDEO MIRRORS
+## .::(outdated) VIDEO MIRRORS
 ### https://sendvid.com/ukyztx3f
 ### https://streamja.com/5qk50
 ##
 
-.:: NEWEST FEATURES: added disable UAC for admin stub purpsoes
+.:: NEWEST FEATURES: added GUI to clipboard and set cipboard text 
 
 .:: NOTE: Do not use UAC if you are already admin privileges or the payload will not execute, use Check Admin first!!
 
