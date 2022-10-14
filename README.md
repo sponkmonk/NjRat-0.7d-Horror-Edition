@@ -11,6 +11,8 @@
 
 .:: NOTE: Do not use UAC if you are already admin privileges or the payload will not execute, use Check Admin first!!
 
+.:: NOTE: Do not use Admin require stub with startup unless you disabled UAC, it will request admin in startup! i later will possibly add disable uac for Admin stub.
+
 ![Screenshot](https://github.com/De-eloper/NjRat-0.7d-Horror-Edition/raw/main/Screenshot_.PNG?raw=true)
 
 ![Screenshotasdfd](https://github.com/De-eloper/NjRat-0.7d-Horror-Edition/raw/main/Screenshotd.PNG?raw=true)
